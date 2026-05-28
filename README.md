@@ -1,2 +1,2 @@
-# parcialgithub.io
-parcial
+# labgithub.io
+ laboratorio
